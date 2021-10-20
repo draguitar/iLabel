@@ -1,0 +1,49 @@
+C:\Users\dragu\source\repos\Image label tool\bin\Release\Image label tool.exe.config
+C:\Users\dragu\source\repos\Image label tool\bin\Release\Image label tool.exe
+C:\Users\dragu\source\repos\Image label tool\bin\Release\Image label tool.pdb
+C:\Users\dragu\source\repos\Image label tool\obj\Release\Image label tool.csprojAssemblyReference.cache
+C:\Users\dragu\source\repos\Image label tool\obj\Release\Image_label_tool.Form1.resources
+C:\Users\dragu\source\repos\Image label tool\obj\Release\Image_label_tool.Properties.Resources.resources
+C:\Users\dragu\source\repos\Image label tool\obj\Release\Image label tool.csproj.GenerateResource.cache
+C:\Users\dragu\source\repos\Image label tool\obj\Release\Image label tool.exe
+C:\Users\dragu\source\repos\Image label tool\obj\Release\Image label tool.pdb
+C:\Users\dragu\source\repos\標籤工具\Image label tool\bin\Release\Image label tool.exe.config
+C:\Users\dragu\source\repos\標籤工具\Image label tool\bin\Release\Image label tool.exe
+C:\Users\dragu\source\repos\標籤工具\Image label tool\bin\Release\Image label tool.pdb
+C:\Users\dragu\source\repos\標籤工具\Image label tool\obj\Release\Image label tool.csprojAssemblyReference.cache
+C:\Users\dragu\source\repos\標籤工具\Image label tool\obj\Release\Image_label_tool.Form1.resources
+C:\Users\dragu\source\repos\標籤工具\Image label tool\obj\Release\Image_label_tool.Properties.Resources.resources
+C:\Users\dragu\source\repos\標籤工具\Image label tool\obj\Release\Image label tool.csproj.GenerateResource.cache
+C:\Users\dragu\source\repos\標籤工具\Image label tool\obj\Release\Image label tool.exe
+C:\Users\dragu\source\repos\標籤工具\Image label tool\obj\Release\Image label tool.pdb
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\bin\Release\Image label tool.exe.config
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\obj\Release\Image label tool.exe
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\obj\Release\Image label tool.pdb
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\bin\Release\Image label tool.exe
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\bin\Release\Image label tool.pdb
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\bin\Release\System.Net.Http.dll
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\bin\Release\System.Net.Http.xml
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\bin\Release\zh-Hant\System.Net.Http.resources.dll
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\obj\Release\Image_label_tool.Form1.resources
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\obj\Release\Image_label_tool.Properties.Resources.resources
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\obj\Release\Image label tool.csproj.GenerateResource.Cache
+C:\Users\C09700\Desktop\Longer\標籤工具\Image label tool\obj\Release\Image label tool.csprojResolveAssemblyReference.cache
+D:\ASEKH\K02970\CL_AI\Chip Probing\Image label tool\bin\Release\Image label tool.exe.config
+D:\ASEKH\K02970\CL_AI\Chip Probing\Image label tool\bin\Release\Image label tool.exe
+D:\ASEKH\K02970\CL_AI\Chip Probing\Image label tool\bin\Release\Image label tool.pdb
+D:\ASEKH\K02970\CL_AI\Chip Probing\Image label tool\obj\Release\Image label tool.csprojAssemblyReference.cache
+D:\ASEKH\K02970\CL_AI\Chip Probing\Image label tool\obj\Release\Image_label_tool.Form1.resources
+D:\ASEKH\K02970\CL_AI\Chip Probing\Image label tool\obj\Release\Image_label_tool.Properties.Resources.resources
+D:\ASEKH\K02970\CL_AI\Chip Probing\Image label tool\obj\Release\Image label tool.csproj.GenerateResource.cache
+D:\ASEKH\K02970\CL_AI\Chip Probing\Image label tool\obj\Release\Image label tool.csproj.CoreCompileInputs.cache
+D:\ASEKH\K02970\CL_AI\Chip Probing\Image label tool\obj\Release\Image label tool.exe
+D:\ASEKH\K02970\CL_AI\Chip Probing\Image label tool\obj\Release\Image label tool.pdb
+C:\Users\C09700\Desktop\Image label tool\bin\Release\Image label tool.exe.config
+C:\Users\C09700\Desktop\Image label tool\obj\Release\Image label tool.exe
+C:\Users\C09700\Desktop\Image label tool\obj\Release\Image label tool.pdb
+C:\Users\C09700\Desktop\Image label tool\bin\Release\Image label tool.exe
+C:\Users\C09700\Desktop\Image label tool\bin\Release\Image label tool.pdb
+C:\Users\C09700\Desktop\Image label tool\obj\Release\Image label tool.csprojResolveAssemblyReference.cache
+C:\Users\C09700\Desktop\Image label tool\obj\Release\Image_label_tool.Form1.resources
+C:\Users\C09700\Desktop\Image label tool\obj\Release\Image_label_tool.Properties.Resources.resources
+C:\Users\C09700\Desktop\Image label tool\obj\Release\Image label tool.csproj.GenerateResource.Cache
